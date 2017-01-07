@@ -1,0 +1,11 @@
+cd ~/zhuge-c.github.io
+git init
+git config user.name "zhuge-c"
+git config user.email "shuxue1985@foxmail.com"
+git add *
+git commit -m "some init msg"
+
+
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
