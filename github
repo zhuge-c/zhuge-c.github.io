@@ -4,7 +4,7 @@ git config user.name "zhuge-c"
 git config user.email "shuxue1985@foxmail.com"
 git add *
 git commit -m "some init msg"
-
+git push
 
 git add --all
 git commit -m "Initial commit"
